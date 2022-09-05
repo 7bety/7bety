@@ -1,4 +1,4 @@
-[![Hits](http://hits.dwyl.com/7bety/7bety.svg)](http://hits.dwyl.com/7bety/7bety)
+![](https://komarev.com/ghpvc/?username=(7bety)&color=39D353)
 
 ```py
 print("i love guys")
