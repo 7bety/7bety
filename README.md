@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=(7bety)&color=39D353)
+![](https://komarev.com/ghpvc/?username=(EXCET)&color=39D353)
 
 ```py
 print("i love guys")
